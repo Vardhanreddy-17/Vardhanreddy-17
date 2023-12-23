@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **vardhanreddy1411@gmail.com**
 
-- 📄 Know about my experiences [https://amber-melinda-75.tiiny.site/](https://amber-melinda-75.tiiny.site/)
+- 📄 Know about my experiences [(https://vardhanportfolio.netlify.app/)](https://vardhanportfolio.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
