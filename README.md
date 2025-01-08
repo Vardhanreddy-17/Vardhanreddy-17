@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vardhan Reddy</h1>
 <h3 align="center">A passionate Software developer</h3>
 
-- 🔭 I’m currently working on **TODO List**
+- 🔭 I’m currently working on **Big Backend Project**
 
 - 🌱 I’m currently learning **React**
 
